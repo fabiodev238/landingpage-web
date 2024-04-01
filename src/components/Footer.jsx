@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <footer className="bg-footer p-8 xl:p-20">
       <div className="flex flex-col md:flew-row items-center justify-between gap-4 border-b  border-gray-500 pb-8 ">
-         {/* Logo 4:58*/} {/* 5:11 correccion responsive//flex-col*/}        
+         {/* Logo */}        
          
          <div className="xl:w-1/6 text-center -mt-4">
           <a href='#' className="text-2xl font-bold text-white relative p-1 ">
@@ -20,7 +20,7 @@ const Footer = () => {
           </a>
          </div>
 
-        {/* Social media //flex flex-col md:flex-row items-center justify-between gap-4 border-b border-gray-500 pb-8*/}
+        {/* Social media */}
        <nav className="flex items-center gap-4">
          <a href="#" 
             className="block text-white p-4 bg-primary rounded-full "> {" "}

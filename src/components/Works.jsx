@@ -12,7 +12,7 @@ const Works = () => {
             helping By information 
         </p>
       </div>
-      {/* Works-A xl: para ipad*/}
+      {/* Works-A */}
       <div className="grid grid-cols-1 xl:grid-cols-2 gap-8">
         <div className="flex flex-col gap-2">
             <img 
@@ -27,7 +27,6 @@ const Works = () => {
             </p>
         </div>
        {/* Works-B */}
-       {/* para movil y... ::: grid grid-cols-1 md:grid-cols-2|||rafce ?3:53*/}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="flex flex-col gap-4">
             <img 

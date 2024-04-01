@@ -28,7 +28,7 @@ const Services = () => {
             </div>
         </form>
       </div>
-       {/* Services  4:33*/}
+       {/* Services */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
 
          <div className="flex flex-col gap-2"> 

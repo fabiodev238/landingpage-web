@@ -39,7 +39,7 @@ return (
      </div>  
     </div>
    </div>
-       {/* Image uistore.org , 2:10:00 formas de centrar|| 3:51:00*/} 
+       {/* Image */} 
    <div className="md:col-span-3 flex items-center justify-center relative">
      {/* Content Image */}
       <div>
