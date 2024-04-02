@@ -106,7 +106,7 @@ return (
        absolute top-[10%] xl:top-[2%] left-[20%] xl:left-[10%]"
        />
       <img src="sketch.png" 
-       className="w-10 h-10 md:w-20 md:h-20 object-cover rounded-full absolute bottom-[-9%] xl:bottom-[5%] left-[-5%] md:left-[15%]
+       className="w-10 h-10 md:w-20 md:h-20 object-cover rounded-full absolute bottom-[-9%] md:bottom-[5%] xl:bottom-[5%] left-[-5%] md:left-[14%]
         xl:left-[3%] -rotate-12"/>
 
    </div>
