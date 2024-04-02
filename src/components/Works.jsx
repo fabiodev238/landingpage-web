@@ -49,7 +49,7 @@ const Works = () => {
           <div className="flex flex-col gap-4">
             <img 
             src="work4.png"
-             className="w-full h-56 object-cover rounded-3xl"/>
+             className="w-full h-56 object-cover  rounded-3xl"/>
             <p className="text-gray-500">App Design - June 20, 2022</p>
             <h3 className="text-2xl font-bold">
              Rental Rooms web App Platform
